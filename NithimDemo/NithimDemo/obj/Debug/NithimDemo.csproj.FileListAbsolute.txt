@@ -1,0 +1,6 @@
+D:\Visual Studio\NithimDemo\NithimDemo\bin\Debug\NithimDemo.dll
+D:\Visual Studio\NithimDemo\NithimDemo\bin\Debug\NithimDemo.pdb
+D:\Visual Studio\NithimDemo\NithimDemo\obj\Debug\NithimDemo.csproj.AssemblyReference.cache
+D:\Visual Studio\NithimDemo\NithimDemo\obj\Debug\NithimDemo.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NithimDemo\NithimDemo\obj\Debug\NithimDemo.dll
+D:\Visual Studio\NithimDemo\NithimDemo\obj\Debug\NithimDemo.pdb

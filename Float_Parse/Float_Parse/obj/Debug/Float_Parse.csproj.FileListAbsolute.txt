@@ -1,0 +1,2 @@
+D:\Visual Studio\Float_Parse\Float_Parse\obj\Debug\Float_Parse.csproj.AssemblyReference.cache
+D:\Visual Studio\Float_Parse\Float_Parse\obj\Debug\Float_Parse.csproj.CoreCompileInputs.cache

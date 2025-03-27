@@ -1,0 +1,7 @@
+D:\Visual Studio\Float_Parse\DynamicValues\bin\Debug\DynamicValues.exe.config
+D:\Visual Studio\Float_Parse\DynamicValues\bin\Debug\DynamicValues.exe
+D:\Visual Studio\Float_Parse\DynamicValues\bin\Debug\DynamicValues.pdb
+D:\Visual Studio\Float_Parse\DynamicValues\obj\Debug\DynamicValues.csproj.AssemblyReference.cache
+D:\Visual Studio\Float_Parse\DynamicValues\obj\Debug\DynamicValues.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Float_Parse\DynamicValues\obj\Debug\DynamicValues.exe
+D:\Visual Studio\Float_Parse\DynamicValues\obj\Debug\DynamicValues.pdb

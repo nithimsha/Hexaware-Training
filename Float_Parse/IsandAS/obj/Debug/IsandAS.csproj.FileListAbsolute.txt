@@ -1,0 +1,7 @@
+D:\Visual Studio\Float_Parse\IsandAS\obj\Debug\IsandAS.csproj.AssemblyReference.cache
+D:\Visual Studio\Float_Parse\IsandAS\obj\Debug\IsandAS.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Float_Parse\IsandAS\bin\Debug\IsandAS.exe.config
+D:\Visual Studio\Float_Parse\IsandAS\bin\Debug\IsandAS.exe
+D:\Visual Studio\Float_Parse\IsandAS\bin\Debug\IsandAS.pdb
+D:\Visual Studio\Float_Parse\IsandAS\obj\Debug\IsandAS.exe
+D:\Visual Studio\Float_Parse\IsandAS\obj\Debug\IsandAS.pdb

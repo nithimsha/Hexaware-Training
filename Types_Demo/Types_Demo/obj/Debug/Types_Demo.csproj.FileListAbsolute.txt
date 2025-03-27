@@ -1,0 +1,7 @@
+D:\Visual Studio\Types_Demo\Types_Demo\bin\Debug\Types_Demo.exe.config
+D:\Visual Studio\Types_Demo\Types_Demo\bin\Debug\Types_Demo.exe
+D:\Visual Studio\Types_Demo\Types_Demo\bin\Debug\Types_Demo.pdb
+D:\Visual Studio\Types_Demo\Types_Demo\obj\Debug\Types_Demo.csproj.AssemblyReference.cache
+D:\Visual Studio\Types_Demo\Types_Demo\obj\Debug\Types_Demo.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Types_Demo\Types_Demo\obj\Debug\Types_Demo.exe
+D:\Visual Studio\Types_Demo\Types_Demo\obj\Debug\Types_Demo.pdb
